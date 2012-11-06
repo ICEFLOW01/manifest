@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="ICEFLOW01" fetch="git://github.com/" />
-    <default revision="master" remote="ICEFLOW01" />
+    <remote name="mycode" fetch="git://github.com/" />
+    <default revision="master" remote="mycode" />
     <project name="ICEFLOW01/SCGI" path="/ICEFLOW01/SCGI"/>
     <project name="ICEFLOE01/TEST" path="ICEFLOW01/TEST"/>
 </manifest>
